@@ -1,0 +1,7 @@
+# Database
+database.sqlite
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+*.log
